@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Priya Kashyap</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<!-- Add your GitHub banner image here -->
-<h2>
+<!-- Transparent GitHub banner -->
 <p align="center">
-  <img alt="GitHub Banner" src="https://wallpaperbat.com/img/8622040-rohan-shettyy-wallpaper-wizard-github.png" style="width: 100%; height: auto;"  <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp" /> />
- 
+  <img alt="GitHub Banner" src="https://wallpaperbat.com/img/8622040-rohan-shettyy-wallpaper-wizard-github.png" style="width: 100%; height: auto; opacity: 0.9;" />
 </p>
-</h2>
 
-
+<!-- Coding girl GIF -->
+<p align="right">
+  <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp" style="margin-top: -200px;" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyakashyap00&label=Profile%20views&color=0e75b6&style=flat" alt="priyakashyap00" /> </p>
 
@@ -43,8 +43,7 @@
   </a> 
 </p>
 
+<!-- GitHub Stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyakashyap00&show_icons=true&locale=en&layout=compact" alt="priyakashyap00" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyakashyap00&show_icons=true&locale=en" alt="priyakashyap00" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyakashyap00&" alt="priyakashyap00" /></p>
