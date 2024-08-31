@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Priya Kashyap</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<!-- Add your transparent GitHub banner image here -->
-<h2>
-<img align="center" alt="GitHub Banner"  src="https://wallpaperbat.com/img/8622040-rohan-shettyy-wallpaper-wizard-github.png" />
+<!-- Add your GitHub banner image here -->
+<p align="center">
+  <img alt="GitHub Banner" src="https://wallpaperbat.com/img/8622040-rohan-shettyy-wallpaper-wizard-github.png" style="width: 100%; height: auto;" />
+</p>
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
-</h2>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyakashyap00&label=Profile%20views&color=0e75b6&style=flat" alt="priyakashyap00" /> </p>
 
 - 👨‍💻 All of my projects are available at [linkedin.com/in/priya-kashyap-49b50820b](https://linkedin.com/in/priya-kashyap-49b50820b)
