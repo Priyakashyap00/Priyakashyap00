@@ -2,9 +2,11 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <!-- Add your GitHub banner image here -->
+<h2>
 <p align="center">
   <img alt="GitHub Banner" src="https://wallpaperbat.com/img/8622040-rohan-shettyy-wallpaper-wizard-github.png" style="width: 100%; height: auto;" />
 </p>
+</h2>
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
 
