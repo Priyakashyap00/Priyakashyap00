@@ -3,7 +3,7 @@
 
 <!-- Add your transparent GitHub banner image here -->
 <h2>
-<img align="center" alt="GitHub Banner" ".....WELCOME....." src="https://wallpaperbat.com/img/8622040-rohan-shettyy-wallpaper-wizard-github.png" />
+<img align="center" alt="GitHub Banner"  src="https://wallpaperbat.com/img/8622040-rohan-shettyy-wallpaper-wizard-github.png" />
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
 </h2>
