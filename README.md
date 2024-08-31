@@ -5,10 +5,11 @@
 <h2>
 <p align="center">
   <img alt="GitHub Banner" src="https://wallpaperbat.com/img/8622040-rohan-shettyy-wallpaper-wizard-github.png" style="width: 100%; height: auto;" />
+  <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
 </p>
 </h2>
 
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyakashyap00&label=Profile%20views&color=0e75b6&style=flat" alt="priyakashyap00" /> </p>
 
